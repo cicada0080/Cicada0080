@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>cicada0080</title>
+    <style>
+        body {
+            font-family: sans-serif; /* Выберите любой шрифт */
+            background-color: #f0f0f0; /* Светло-серый фон */
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        h1 {
+            color: #333; /* Темно-серый текст */
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>cicada0080</h1>
+</body>
+</html>
