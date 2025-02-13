@@ -1,4 +1,4 @@
-## Hi there 👋
+TG: https://t.me/Zahardr
 
 <!--
 **cicada0080/Cicada0080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
